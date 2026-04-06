@@ -3,4 +3,4 @@ A SAS macro, LRDIF_ES, has been developed to apply logistic regression analyses 
 
 Reference
 
-Fu, J., & Monfils, L. (2016). LRDIF_ES: An SAS macro for logistic regression tests for differential item functioning for dichotomous and polytomous items. (ETS Research Memorandum No. 16-17). Educational Testing Service.
+Fu, J., & Monfils, L. (2016). *LRDIF_ES: An SAS macro for logistic regression tests for differential item functioning for dichotomous and polytomous items*. (ETS Research Memorandum No. 16–17). Educational Testing Service.
